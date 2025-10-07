@@ -1,0 +1,2 @@
+# DesignScape---Transforming-INterior-Design-into-Digital-Brilliance
+This project was more than a technical assignment—it was a digital rebirth for a  well-established brand. KM Interiors needed a central platform to display their  portfolio, attract new clients, and communicate their legacy in a modern format.  Their absence in the online space limited growth and visibility in a competitive  market.
