@@ -1,13 +1,13 @@
 {
-  "dependencies": {
-    "@prisma/client": "^6.7.0",
-    "cross-env": "^7.0.3",
-    "express": "^4.21.2",
-    "express-validator": "^7.2.1",
-    "morgan": "^1.10.0",
-    "winston": "^3.17.0"
+  "name": "DesignScape",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
   },
-  "devDependencies": {
-    "prisma": "^6.7.0"
+  "dependencies": {
+    "express": "^4.18.2",
+    "prisma": "^4.16.0"
   }
 }
+
